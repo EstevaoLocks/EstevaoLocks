@@ -1,5 +1,3 @@
-Here are some ideas to get you started:
-
 <!-- 
 - 🔭 I’m currently working on ...
   - 🌱 I’m currently learning ...
@@ -13,6 +11,6 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/EstevaoLocks"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevaolocks&show_icons=true&theme=catppuccin_latte#gh-dark-mode-only" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevaolocks&show_icons=true&theme=catppuccin_latte#gh-dark-mode-only&bg_color=fffefe" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolocks&layout=donut&langs_count=8&exclude_repo=Aulas_PA&theme=catppuccin_latte" />
 </div>
