@@ -8,9 +8,6 @@
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
 -->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=false&vCenter=true&width=1000&lines=WELCOME!;My+name+is+Estevão+Locks;I'm+17+years+old;I'm+studying+internet+computing+at+ETEC+:%29)](https://git.io/typing-svg) 
 
 ##
@@ -46,11 +43,3 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </div>
-
-<br>
-<br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EstevaoLocks&theme=catppuccin_latte&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
