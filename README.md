@@ -15,8 +15,13 @@
 
 <div>
   <a href="https://github.com/EstevaoLocks"></a>
+
+  [![estevaolocks's github stats](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <!--
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=estevaolocks&show_icons=true&theme=catppuccin_latte#gh-dark-mode-only&bg_color=fffefe" />
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolocks&layout=donut&langs_count=8&exclude_repo=Aulas_PA&theme=catppuccin_latte" />
+  -->
 </div>
 
 <div style="display: inline_block; margin-right: 100"><br>
