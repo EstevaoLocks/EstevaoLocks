@@ -15,8 +15,6 @@
 
 <div>
   <a href="https://github.com/EstevaoLocks"></a>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estevaolocks&show_icons=true&theme=radical)
   
   <!--
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=estevaolocks&show_icons=true&theme=catppuccin_latte#gh-dark-mode-only&bg_color=fffefe" />
