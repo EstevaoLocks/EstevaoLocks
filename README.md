@@ -22,9 +22,9 @@ Seja muitíssimo bem vindo ao meu Github!
 <br>
 Sou um estudante de desenvolvimento web e um curioso nato. Gosto de explorar e dominar tecnologias que ainda não conheço e aqui estão alguns dos meus projetos.
 <br>
-Nessa jornada web, desenvolvi sistemas em php com banco de dados relacional MySQL e agora busco dominar o Node.js, já utilizei bastante Bootstrap e busco aprimorar minhas habilidades com React.
+Nessa jornada web, desenvolvi sistemas em php com banco de dados relacional MySQL e agora busco dominar o Node.js, Já utilizei bastante Bootstrap e busco aprimorar minhas habilidades com React.
 <br>
-Apesar deste caminho, também me interesso bastante por Java, e aos poucos também vou estudando um pouco desse mundo!
+Apesar deste caminho, também me interesso bastante por Java, e aos poucos também vou estudando mais desse mundo!
 
 <div>
   <a href="https://github.com/EstevaoLocks"></a>
@@ -43,7 +43,8 @@ Apesar deste caminho, também me interesso bastante por Java, e aos poucos tamb�
   <a href="https://stackoverflow.com/users/32456998/estev%c3%a3o-locks" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
 
----
+<!-- Linha -->
+##
 
 <p style="display: inline_block; margin-right: 100"><br>
   <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
