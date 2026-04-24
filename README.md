@@ -76,7 +76,7 @@ Apesar deste caminho, tamb√©m me interesso bastante por Java, e aos poucos tamb√
 <!-- Linha -->
 ##
 
-<p style="display: flex; margin-right: 100"><br>
+<div display="flex"><br>
   <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -88,7 +88,7 @@ Apesar deste caminho, tamb√©m me interesso bastante por Java, e aos poucos tamb√
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
           
-</p>
+</div>
 <br><br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstevaoLocks&theme=aura" alt="GitHub Streak" />
