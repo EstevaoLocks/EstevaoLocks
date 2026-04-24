@@ -54,10 +54,10 @@ Apesar deste caminho, tamb√©m me interesso bastante por Java, e aos poucos tamb√
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=estevaolocks&show_icons=true&theme=gotham&card_width=400px"
+      srcset="https://github-readme-stats.vercel.app/api?username=estevaolocks&show_icons=true&theme=aura&card_width=400px"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=estevaolocks&show_icons=true&theme=gotham&card_width=400px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=estevaolocks&show_icons=true&theme=aura&card_width=400px" />
   </picture>
 
   <picture>
@@ -66,10 +66,10 @@ Apesar deste caminho, tamb√©m me interesso bastante por Java, e aos poucos tamb√
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolocks&layout=compact&theme=gotham&card_width=300px&exclude_repo=Aulas_PA&langs_count=8"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolocks&layout=compact&theme=aura&card_width=300px&exclude_repo=Aulas_PA&langs_count=8"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolocks&layout=compact&theme=gotham&card_width=300px&exclude_repo=Aulas_PA&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolocks&layout=compact&theme=aura&card_width=300px&exclude_repo=Aulas_PA&langs_count=8" />
   </picture>
 </div>
 
@@ -94,5 +94,15 @@ Apesar deste caminho, tamb√©m me interesso bastante por Java, e aos poucos tamb√
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstevaoLocks&theme=aura" alt="GitHub Streak" />
+  <picture>
+      <source
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=EstevaoLocks&theme=graywhite&card_width=400px"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=EstevaoLocks&theme=aura&card_width=400px"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstevaoLocks&theme=aura&card_width=400px" />
+  </picture>
 </div>
