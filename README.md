@@ -46,7 +46,7 @@ Apesar deste caminho, tamb√©m me interesso bastante por Java, e aos poucos tamb√
 <!-- Linha -->
 ##
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex;" align="center">
 
   <picture>
     <source
