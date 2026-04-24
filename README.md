@@ -46,7 +46,37 @@ Apesar deste caminho, tamb√©m me interesso bastante por Java, e aos poucos tamb√
 <!-- Linha -->
 ##
 
-<p style="display: inline_block; margin-right: 100"><br>
+<div style="display: flex; justify-content: space-between;">
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=estevaolocks&show_icons=true&theme=graywhite&card_width=400px"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=estevaolocks&show_icons=true&theme=gotham&card_width=400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=estevaolocks&show_icons=true&theme=gotham&card_width=400px" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolocks&layout=compact&theme=graywhite&card_width=300px&exclude_repo=Aulas_PA&langs_count=8"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolocks&layout=compact&theme=gotham&card_width=300px&exclude_repo=Aulas_PA&langs_count=8"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolocks&layout=compact&theme=gotham&card_width=300px&exclude_repo=Aulas_PA&langs_count=8" />
+  </picture>
+</div>
+
+<!-- Linha -->
+##
+
+<p style="display: flex; margin-right: 100"><br>
   <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -59,3 +89,7 @@ Apesar deste caminho, tamb√©m me interesso bastante por Java, e aos poucos tamb√
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
           
 </p>
+<br><br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstevaoLocks&theme=aura" alt="GitHub Streak" />
+</div>
