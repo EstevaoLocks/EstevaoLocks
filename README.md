@@ -11,7 +11,7 @@
 -->
 
 <!-- Escrita animada -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=false&vCenter=true&width=1000&lines=WELCOME!;My+name+is+Estevão+Locks;I'm+17+years+old;I'm+studying+internet+computing+at+ETEC+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=false&vCenter=true&width=1000&lines=WELCOME!;My+name+is+Estevão+Locks;I'm+18+years+old;I'm+studying+internet+computing+at+ETEC+:%29)](https://git.io/typing-svg) 
 
 <!-- Linha -->
 ##
