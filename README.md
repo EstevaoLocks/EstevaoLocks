@@ -22,7 +22,7 @@ Seja muitíssimo bem vindo ao meu Github!
 <br>
 Sou um estudante de desenvolvimento web e um curioso nato. Gosto de explorar e dominar tecnologias que ainda não conheço e aqui estão alguns dos meus projetos.
 <br>
-Nessa jornada web, desenvolvi sistemas em php com banco de dados relacional MySQL e agora busco dominar o Node.js, Já utilizei bastante Bootstrap e busco aprimorar minhas habilidades com React.
+Nessa jornada web, desenvolvi sistemas em php com banco de dados relacional MySQL e agora busco dominar o Node.js. Já utilizei bastante Bootstrap e busco aprimorar minhas habilidades com React.
 <br>
 Apesar deste caminho, também me interesso bastante por Java, e aos poucos também vou estudando mais desse mundo!
 
