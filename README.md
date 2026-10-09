@@ -61,15 +61,16 @@ Apesar deste caminho, tamb√©m me interesso bastante por Java, e aos poucos tamb√
   </picture>
 
   <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolocks&layout=compact&theme=radical&card_width=300px&exclude_repo=Aulas_PA&langs_count=8"
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolocks&layout=compact&theme=radical&card_width=300px&exclude_repo=Aulas_PA&langs_count=8&hide=HTML%2CCSS"
       media="(prefers-color-scheme: dark)"
     />
+    />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolocks&layout=compact&theme=swift&card_width=300px&exclude_repo=Aulas_PA&langs_count=8&hide=html,css"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolocks&layout=compact&theme=swift&card_width=300px&exclude_repo=Aulas_PA&langs_count=8&hide=HTML%2CCSS"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolocks&layout=compact&theme=swift&card_width=300px&exclude_repo=Aulas_PA&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolocks&layout=compact&theme=swift&card_width=300px&exclude_repo=Aulas_PA&langs_count=8&hide=HTML%2CCSS" />
   </picture>
 </div>
 
