@@ -66,7 +66,7 @@ Apesar deste caminho, tambÃ©m me interesso bastante por Java, e aos poucos tambÃ
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolocks&layout=compact&theme=swift&card_width=300px&exclude_repo=Aulas_PA&langs_count=8"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolocks&layout=compact&theme=swift&card_width=300px&exclude_repo=Aulas_PA&langs_count=8&hide=html,css"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaolocks&layout=compact&theme=swift&card_width=300px&exclude_repo=Aulas_PA&langs_count=8" />
